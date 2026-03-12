@@ -1,2 +1,1 @@
-# stage_1_reallocation
-Stage 1: Reallocation of Quantum Circuit
+# stage_1_Reallocation of Quantum Circuit
