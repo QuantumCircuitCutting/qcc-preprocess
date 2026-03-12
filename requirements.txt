@@ -1,0 +1,9 @@
+###### Requirements for Python ######
+###### compilation ######
+networkx==3.4.2
+###### Quantum Circuits ######
+qiskit==2.2.2
+pylatexenc==2.10
+pyzx==0.9.0
+###### Visualization ######
+matplotlib==3.10.7
