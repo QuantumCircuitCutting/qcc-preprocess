@@ -7,3 +7,5 @@ pylatexenc==2.10
 pyzx==0.9.0
 ###### Visualization ######
 matplotlib==3.10.7
+###### Data Analysis ######
+pandas==2.3.3
